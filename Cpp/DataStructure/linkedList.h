@@ -20,10 +20,11 @@ public:
     }
     ~LinkedList();
 
-    void insertNode(int data);
+    void insertNode(int data)
     void deleteNode(int data);
     void printList();
 }; 
+
 
 /**
  * 이중 연결리스트
