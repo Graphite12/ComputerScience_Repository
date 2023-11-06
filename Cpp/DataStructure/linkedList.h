@@ -20,7 +20,9 @@ public:
     }
     ~LinkedList();
 
+
     void insertNode(int data);
+
     void deleteNode(int data);
     void printList();
 }; 

@@ -6,7 +6,6 @@
  *  싱글 연결리스트
  * 
 */
-
 void LinkedList::insertNode(int data) {
                                               //(struct Node*)malloc(sizeof(struct Node));
     struct Node* newNode = new struct Node();  //struct Node의 크기만큼 메모리 블록할당.
@@ -18,8 +17,8 @@ void LinkedList::insertNode(int data) {
         tail = newNode;
     }
      
-    tail->next = newNode;
-    tail = newNode;
+    tail->next = newNode;       //리스트 추가
+    tail = newNode;             // 포인터 
 }
  
 
@@ -37,7 +36,6 @@ void LinkedList::printList() {
         currentNode = currentNode->next;
     }
 }
-
 
 /**
  *  이중 연결리스트
@@ -157,4 +155,10 @@ void DoublyLinkedList::printList() {
 bool DoublyLinkedList::is_empty() {
     return size == 0;
 }
+
+
+
+
+
+
 
