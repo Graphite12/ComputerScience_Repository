@@ -6,7 +6,6 @@
  *  싱글 연결리스트
  * 
 */
-
 void LinkedList::insertNode(int data) {
                                               //(struct Node*)malloc(sizeof(struct Node));
     struct Node* newNode = new struct Node();  //struct Node의 크기만큼 메모리 블록할당.
@@ -18,8 +17,8 @@ void LinkedList::insertNode(int data) {
         tail = newNode;
     }
      
-    tail->next = newNode;
-    tail = newNode;
+    tail->next = newNode;       //리스트 추가
+    tail = newNode;             // 포인터 
 }
  
 
@@ -37,7 +36,6 @@ void LinkedList::printList() {
         currentNode = currentNode->next;
     }
 }
-
 
 /**
  *  이중 연결리스트
@@ -158,59 +156,9 @@ bool DoublyLinkedList::is_empty() {
     return size == 0;
 }
 
-=======
-#include "node.h"
-#include "linkedList.h"
 
 
-void LinkedList::printList()
-{
-    Node* currentNode = this->head;
 
-    while (currentNode->next != nullptr)
-    {
-        std::cout << "노드:" << currentNode; << std::endl;
-        std::cout << "데이터:" << currentNode->data << std::endl;
 
-        currentNode = currentNode->next;
-    }
-    
-}
-void LinkedList::appendNode(int data)
-{
-    Node* newNode = new Node(data);
 
-    if(this->head == nullptr){
-        this->head = newNode;
-    } 
-
-    Node* currentNode = this->head;
-    while(currentNode->next != nullptr) {
-        currentNode = currentNode->next;
-    }
-    currentNode->next = newNode;
-}
-
-void LinkedList::deleteNode(int data)
-{
-    Node* previousNode = nullptr;
-    Node* currentNode = this->head;
-
-    while(currentNode != nullptr && currentNode->data != data) {
-        previousNode = currentNode;
-        currentNode = currentNode->next;
-    }
-
-    if(currentNode == nullptr) {
-        return;
-    }
-
-    if(previousNode != nullptr) {
-        previousNode->next = currentNode->next;
-    } else {
-        this->head = currentNode->next;
-    }
-
-    delete currentNode;
-}
 
