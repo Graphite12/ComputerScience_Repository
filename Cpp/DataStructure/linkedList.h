@@ -1,6 +1,5 @@
 #ifndef CARBON_LINKED_LIST_H
 #define CARBON_LINKED_LIST_H
-#include<optional>
 
 using std::optional;
 
@@ -15,6 +14,7 @@ struct Node
 class LinkedList
 {   
 private:
+
     Node* head;
     Node* tail;
     int size;
@@ -31,6 +31,7 @@ public:
     Node* searchNode(int data);
     void printList();
     bool is_empty();
+
 }; 
 
 /**
@@ -39,6 +40,8 @@ public:
 class DoublyLinkedList
 {
 private:
+
+
     Node* head;
     Node* tail;
     int size;
@@ -49,9 +52,11 @@ public:
 
    void insertHead(int data); //연결리스트의 제일 앞부분추가
    void insertTail(int data); //연결리스트의 제일 뒷부분추가
+
    bool deleteHead(int data);
    bool deleteTail(int data);
    Node* serarchNode(int data);
+
    void printList();
    bool is_empty();
 };

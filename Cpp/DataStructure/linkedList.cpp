@@ -189,3 +189,12 @@ bool DoublyLinkedList::is_empty() {
     return size == 0;
 }
 
+
+
+
+
+
+
+
+
+
