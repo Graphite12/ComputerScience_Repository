@@ -1,7 +1,8 @@
 #include <iostream>
 #include "linkedList.h"
 
-
+using std::cout;
+using std::endl;
 /**
  *  싱글 연결리스트
  * 
@@ -18,17 +19,46 @@ void LinkedList::insertNode(int data) {
         tail = newNode;
     }
      
-    tail->next = newNode;
-    tail = newNode;
+    tail->next = newNode;       //리스트 추가
+    tail = newNode;             // 포인터 
+    size++;
 }
  
 
-void LinkedList::deleteNode( int data) {
-   Node* currentNode = prev->next;          //이전 Node가 가르키는 현재노드
-   prev->next = currentNode->next;          // 현재 노드의 tail로 붙는 Node와 이전 Node 결합.
-   delete currentNode;                      // 동적할당된 힙에서 삭제
+bool LinkedList::deleteNode( int data) {
+    Node* current_node = head;
+    
+    if(current_node == null)  {
+        cout << 'Node를 찾을 수 없습니다.' << endl;
+        return false;
+    }
+
+    while (current_node != nullptr && current_node->data != data) 
+    {  
+        current_node = current_node->next
+    }
+    
+
+
+   Node* currentNode = head;          
+
+ 
+   delete currentNode;                      
+   size--
+
+   return true;
 }
 
+Node* LinkedList::searchNode(int data) {
+        Node* currentNode = head;
+
+    while (currentNode != nullptr && currentNode->data != data)
+    {
+        currentNode = currentNode->next;
+    }
+
+    return currentNode;    
+}
 
 void LinkedList::printList() {
     Node* currentNode = head;
@@ -83,10 +113,11 @@ void DoublyLinkedList::insertTail(int data) {
     size++;
 }
 
-void DoublyLinkedList::deleteHead(int data) {
+bool DoublyLinkedList::deleteHead(int data) {
      
       if(is_empty()){
-        return 0;
+        cout << '이미 빈 상태입니다.' << endl;
+        return false;
       }
 
       struct Node* currentNode = head;
@@ -102,13 +133,15 @@ void DoublyLinkedList::deleteHead(int data) {
 
       size--;
 
-      return delValue;
+      cout << '삭제된 머리 데이터:' <<  delValue << endl;
+      return true;
 
 }
 
-void DoublyLinkedList::deleteTail(int data) {
+bool DoublyLinkedList::deleteTail(int data) {
     if(is_empty()){
-        return 0;
+        cout << '이미 빈 상태입니다.' << endl;
+        return false;
     }
 
     Node* currentNode = tail;
@@ -125,24 +158,22 @@ void DoublyLinkedList::deleteTail(int data) {
 
       size--;
 
-      return delValue;
+      cout << '삭제된 꼬리 데이터:' <<  delValue << endl;
+      return true;
 
-    size--;
 }
 
-Node* DoublyLinkedList::serarchNode(Node* head, int data){
+Node* DoublyLinkedList::serarchNode(int data){
     Node* currentNode = head;
 
-    do
+    while (currentNode != nullptr && currentNode->data != data)
     {
-        if(currentNode->data == data) {
-            return currentNode;
-        }
-
         currentNode = currentNode->next;
-    } while (currentNode != head);
-    
+    }
+
+    return currentNode;      
 }
+
 void DoublyLinkedList::printList() {
     struct Node* currentNode = head;
 
