@@ -1,0 +1,69 @@
+# 프로그램
+- 실행가능한 명령어들의 집합
+# 운영체제의 구조
+- **사용자 인터페이스(User Interface)**
+  - CLI (Command Line Interface)
+    - sh, bash, csh, zsh, tcsh 등 존재.
+  - GUI (Graphic User Interface)
+    - Windows, Linux, Mac OS 등..
+  - Touch Screen Interface: Android, Ios 등 
+- **프로그램의 실행(Program execution)**
+  - 시스템은 프로그램을 메모리에 적재해 실행 가능.
+  - 정상 혹은 비정상적으로 끝낼 수 있어야함.
+- **입/출력 연산(I/O operation)**
+  - 사용자가 I/O를 수행하기 위한 API 제공. 
+  - 예: 네트워크 인터페이스로 데이터읽기, 파일 관리 시스템을 통해 쓰기
+- **파일 시스템 조작(File-system manipulation)**
+  - 프로그램이 파일 혹은 디렉토리를 읽기, 쓰기, 생성, 삭제, 검색 등 기능 활용.
+  - 파일 소유권에 따른 권한 관리(접근 허용 및 거부)
+- **에러 탐색(Error detection)**
+  - 지속적인 오류 감지 및 수정
+  - CPU, 메모리, I/O 장치, 프로그램에서 발생가능
+  - 올바르고 일관된 컴퓨팅 보장.
+  - 시스템을 중단, 오류발생 프로세스 종료 및 오류코드 반환 
+- **자원 할당(Resource allocation)**
+  - 여러 프로세스가 동시에 실행 중일때 각 프로세스별로 적절하게 자원할당.
+  - 메모리, 파일 저장소, CPU 주기 등 리소스 관리
+  - 프린터, USB 등 기타 주변 장치 할당
+- **로깅(logging)**
+  - 컴퓨터의 리소스 사용량 추적
+  - 사용 통계 수집
+  - 시스템 관리자가 시스템 최적화 
+- **보호 및 보안(Protection and Security)**
+  보호: 동시에 실행된 각 프로세스 끼리 간섭 방지 
+  보안: 시스템 보호를 위한 사용자 인증, I/O 장치 보호 및 침입 감지
+
+ 
+## 시스템 호출(System Call)
+
+- 시스템 호출은 운영체제에서 제공하는 인터페이스이다.
+- C++과 같은 언어로 작성되나, 하드웨어에 직접 엑세스 하기 위해선 어셈블리어로 명령을 작성해야한다.
+
+### 시스템 호출의 유형
+1. 프로세서 제어
+2. 파일 조작
+3. 장치 관리
+4. 정보 유지
+5. 통신
+
+### 시스템 호출 예시
+
+#### 파일조작
+```cpp
+#include <iostream>
+#include <fstream>
+
+using std::ifstream
+using std::ofsteam
+int main() {
+
+}
+```
+#### 디바이스 조작
+```cpp
+```
+## interupt 
+
+
+
+# 멀티 프로그래밍이란?

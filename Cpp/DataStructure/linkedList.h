@@ -1,18 +1,24 @@
 #ifndef CARBON_LINKED_LIST_H
 #define CARBON_LINKED_LIST_H
 
+using std::optional;
+
+struct Node
+{  
+       int data;    //노드에 저장할 데이터
+       optional<Node*> prev;  //앞 노드를 가르키는 포인터
+       Node* next;  //뒷 노드를 가르키는 포인터
+};
+
+
 class LinkedList
 {   
 private:
-    struct Node
-    {
-       int data;
-       Node* next;
-    };
+
     Node* head;
     Node* tail;
-    
-  
+    int size;
+     
 public:
     LinkedList() {
         head = nullptr;
@@ -20,11 +26,12 @@ public:
     }
     ~LinkedList();
 
-
     void insertNode(int data);
-
-    void deleteNode(int data);
+    bool deleteNode(int data);
+    Node* searchNode(int data);
     void printList();
+    bool is_empty();
+
 }; 
 
 /**
@@ -33,12 +40,8 @@ public:
 class DoublyLinkedList
 {
 private:
-    struct Node
-    {
-       int data;    //노드에 저장할 데이터
-       Node* prev;  //앞 노드를 가르키는 포인터
-       Node* next;  //뒷 노드를 가르키는 포인터
-    };
+
+
     Node* head;
     Node* tail;
     int size;
@@ -49,9 +52,11 @@ public:
 
    void insertHead(int data); //연결리스트의 제일 앞부분추가
    void insertTail(int data); //연결리스트의 제일 뒷부분추가
-   void deleteHead(int data);
-   void deleteTail(int data);
-   Node* serarchNode(Node* head, int data);
+
+   bool deleteHead(int data);
+   bool deleteTail(int data);
+   Node* serarchNode(int data);
+
    void printList();
    bool is_empty();
 };
