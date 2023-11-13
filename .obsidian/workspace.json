@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mathmatics/이산수학/01_01집합의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mathmatics/이산수학/01_01집합의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mathmatics/이산수학/01_01집합의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mathmatics/이산수학/01_01집합의 기초.md"
               }
             }
           },
@@ -162,6 +162,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "094cb5182e32acc1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 7
@@ -190,6 +198,7 @@
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/운영체제/01_02_Processor.md",
+    "Computer Science/하드웨어/1-1_메모리-기억장치.md",
     "README.md"
   ]
 }
