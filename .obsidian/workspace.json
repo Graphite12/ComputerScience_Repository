@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md",
+                "file": "Mathmatics/이산수학/00_01논리와 명제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md",
+                "file": "Mathmatics/이산수학/00_01논리와 명제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md"
+                "file": "Mathmatics/이산수학/00_01논리와 명제.md"
               }
             }
           },
@@ -205,10 +206,10 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "f63bf170af7a88b5",
+  "active": "3c69576c030feb83",
   "lastOpenFiles": [
-    "Mathmatics/이산수학/00_01논리와 명제.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
+    "Mathmatics/이산수학/00_01논리와 명제.md",
     "Mathmatics/이산수학/01_02집합의 연산.md",
     "Mathmatics/이산수학/01_01집합의 기초.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
