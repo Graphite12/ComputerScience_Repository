@@ -8,5 +8,6 @@
   "cmenu-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-table-generator"
 ]
