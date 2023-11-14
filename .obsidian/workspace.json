@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/네트워크/TCP/http.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/네트워크/TCP/http.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/네트워크/TCP/http.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/네트워크/TCP/http.md"
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md"
               }
             }
           },
@@ -206,10 +206,10 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "3062eac48599991c",
+  "active": "3c69576c030feb83",
   "lastOpenFiles": [
-    "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "Computer Science/네트워크/TCP/http.md",
+    "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/하드웨어/1-1_메모리-기억장치.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
