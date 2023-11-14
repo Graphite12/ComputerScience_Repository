@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/네트워크/TCP/http.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/네트워크/TCP/http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/네트워크/TCP/http.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md"
+                "file": "Computer Science/네트워크/TCP/http.md"
               }
             }
           },
@@ -206,14 +206,16 @@
       "workspaces:작업 공간 레이아웃 관리": false
     }
   },
-  "active": "3c69576c030feb83",
+  "active": "3062eac48599991c",
   "lastOpenFiles": [
+    "Computer Science/네트워크/TCP/소켓프로그래밍.md",
+    "Computer Science/네트워크/TCP/http.md",
+    "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/하드웨어/1-1_메모리-기억장치.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/01_02집합의 연산.md",
     "Mathmatics/이산수학/01_01집합의 기초.md",
-    "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/운영체제/01_02_Processor.md",
     "README.md"
   ]
