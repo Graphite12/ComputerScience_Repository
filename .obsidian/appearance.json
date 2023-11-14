@@ -1,5 +1,6 @@
 {
   "accentColor": "#ffa70f",
   "theme": "system",
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "baseFontSize": 17
 }
