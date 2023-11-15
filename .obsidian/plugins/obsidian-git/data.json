@@ -1,7 +1,7 @@
 {
   "commitMessage": "컴퓨터 공학 기록내용 저장: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 10,
   "autoPushInterval": 0,
   "autoPullInterval": 10,
   "autoPullOnBoot": false,
