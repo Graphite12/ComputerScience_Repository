@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/무제 파일.md",
+                "file": "C++/자료형.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/무제 파일.md",
+                "file": "C++/자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/무제 파일.md",
+                "file": "C++/자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/무제 파일.md"
+                "file": "C++/자료형.md"
               }
             }
           },
@@ -221,7 +221,7 @@
   "active": "dde7a797c7819849",
   "lastOpenFiles": [
     "C++/포인터.md",
-    "C++/무제 파일.md",
+    "C++/자료형.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/운영체제/01_02_Processor.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
