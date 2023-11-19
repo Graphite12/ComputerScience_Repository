@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dde7a797c7819849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md",
+                "file": "C++/포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md",
+                "file": "C++/포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md"
+                "file": "C++/포인터.md"
               }
             }
           },
@@ -206,10 +218,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3c69576c030feb83",
+  "active": "dde7a797c7819849",
   "lastOpenFiles": [
-    "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
+    "C++/무제 파일.canvas",
+    "C++/포인터.md",
     "Mathmatics/이산수학/02_01증명.md",
+    "C++",
+    "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
