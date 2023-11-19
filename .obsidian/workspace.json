@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +209,8 @@
   "active": "3c69576c030feb83",
   "lastOpenFiles": [
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
-    "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/02_01증명.md",
+    "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
