@@ -199,10 +199,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
-      "workspaces:작업 공간 레이아웃 관리": false
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "3c69576c030feb83",
