@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14c958cc6dbb2a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac84442d08fe1ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9e8a7d5568d03b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/포인터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,20 +251,27 @@
       "workspaces:작업 공간 레이아웃 관리": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dde7a797c7819849",
+  "active": "d9e8a7d5568d03b4",
   "lastOpenFiles": [
-    "C++/자료형.md",
+    "Excalidraw/Drawing 2023-11-19 23.11.15.excalidraw.md",
     "C++/포인터.md",
+    "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-19 23.11.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-19 23.07.56.excalidraw.md",
+    "C++/무제 파일.canvas",
+    "Excalidraw/Drawing 2023-11-19 23.07.05.excalidraw.md",
+    "Excalidraw",
+    "C++/자료형.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/운영체제/01_02_Processor.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/이산수학/02_01증명.md",
-    "C++/무제 파일.canvas",
     "C++",
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Computer Science/네트워크/TCP/http.md",
