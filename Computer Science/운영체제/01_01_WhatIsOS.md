@@ -45,11 +45,13 @@
 ### 시스템 호출의 유형
 1. **프로세서 제어**
 ```cpp
-#include <cstdlib>
+#include <cstdlib> // Windows, Linux, Mac OS 지원
+#include <Windows.h> // Windows에서만 사용가능
 #include <iostream>
 using std::cout, std::cerr, std::endl;
 
 int main() {
+	/* 프로세스의 생성 */
 	int status = system("ls -a");
 	
 	if(status == -1) {
@@ -59,6 +61,7 @@ int main() {
 
 	cout << "프로세스가 성공적으로 실행되었습니다." << endl;
 	cout << "프로그램을 종료합니다." << endl;
+	/* 프로세스의 종료 */
 	exit(0);
 }
 ```
