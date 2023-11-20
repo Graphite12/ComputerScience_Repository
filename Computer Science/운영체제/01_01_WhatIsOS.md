@@ -43,18 +43,49 @@
 - C++과 같은 언어로 작성되나, 하드웨어에 직접 엑세스 하기 위해선 어셈블리어로 명령을 작성해야한다.
 
 ### 시스템 호출의 유형
-1. 프로세서 제어
+1. **프로세서 제어**
 ```cpp
 #include <cstdlib>
+#include <iostream>
+using std::cout, std::cerr, std::endl;
 
 int main() {
+	int status = system("ls -a");
+	
+	if(status == -1) {
+		cerr << "프로세스 생성에 실패했습니다." << endl;
+		exit(1); // 에러, 종료상태 1
+	}
 
+	cout << "프로세스가 성공적으로 실행되었습니다." << endl;
+	cout << "프로그램을 종료합니다." << endl;
+	exit(0);
 }
 ```
-2. 파일 조작
-3. 장치 관리
-4. 정보 유지
-5. 통신
+2. **파일 조작**
+
+```cpp
+#include <cstdio>
+
+int main () {
+
+	/* 파일 열기/ 닫기 */
+	FILE* file = fopen("path/to/hello.txt", "r");
+	fclose(file);
+	
+	/* 파일 읽기 */
+
+	return 0;
+}
+
+```
+
+
+
+
+3. **장치 관리**
+4. **정보 유지**
+5. **통신**
 
 ### 시스템 호출 예시
 
@@ -66,7 +97,7 @@ int main() {
 using std::ifstream
 using std::ofsteam
 int main() {
-
+	
 }
 ```
 #### 디바이스 조작
