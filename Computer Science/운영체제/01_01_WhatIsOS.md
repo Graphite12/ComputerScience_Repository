@@ -74,7 +74,9 @@ int main () {
 	fclose(file);
 	
 	/* 파일 읽기 */
-
+	fread()
+	fwrite()
+	
 	return 0;
 }
 
