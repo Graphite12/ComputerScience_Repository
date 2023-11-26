@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/네트워크/TCP/OSI 7계층.md",
+                "file": "Mathmatics/이산수학/02_01증명.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md",
+                "file": "Mathmatics/이산수학/02_01증명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md",
+                "file": "Mathmatics/이산수학/02_01증명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md"
+                "file": "Mathmatics/이산수학/02_01증명.md"
               }
             }
           },
@@ -256,6 +256,8 @@
   },
   "active": "3062eac48599991c",
   "lastOpenFiles": [
+    "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
+    "Mathmatics/이산수학/00_02논리적 동치.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Computer Science/네트워크/TCP/OSI 7계층.md",
     "C++/포인터.md",
@@ -268,8 +270,6 @@
     "Excalidraw",
     "C++/자료형.md",
     "Computer Science/운영체제/01_02_Processor.md",
-    "Mathmatics/이산수학/00_02논리적 동치.md",
-    "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/이산수학/02_01증명.md",
     "C++",
