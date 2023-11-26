@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md",
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md",
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md",
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/02_01증명.md"
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md"
               }
             }
           },
@@ -254,8 +254,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3062eac48599991c",
+  "active": "d9e8a7d5568d03b4",
   "lastOpenFiles": [
+    "Mathmatics/이산수학/00_01논리와 명제.md",
+    "Mathmatics/이산수학/02_01증명.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
@@ -271,9 +273,7 @@
     "C++/자료형.md",
     "Computer Science/운영체제/01_02_Processor.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
-    "Mathmatics/이산수학/02_01증명.md",
     "C++",
-    "Mathmatics/이산수학/00_01논리와 명제.md",
     "Computer Science/네트워크/TCP/http.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "Computer Science/하드웨어/1-1_메모리-기억장치.md",
