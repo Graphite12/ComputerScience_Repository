@@ -1,7 +1,8 @@
 # 프로그램
 - 실행가능한 명령어들의 집합, **프로세스**(Process)라고도함.
 # 운영체제의 구조
-![[Pasted image 20231201144032.png]]
+
+
 - **사용자 인터페이스(User Interface)**
   - **CLI (Command Line Interface)**
 	- `sh`, `bash`, `csh`, `zsh`, `tcsh` 등 존재.
