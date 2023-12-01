@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/운영체제/01_02_Inturrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/운영체제/01_02_Inturrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/운영체제/01_02_Inturrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md"
+                "file": "Computer Science/운영체제/01_02_Inturrupt.md"
               }
             }
           },
@@ -268,6 +268,9 @@
   },
   "active": "834fe634afebad87",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_03_System_Call.md",
+    "Computer Science/운영체제/01_02_Inturrupt.md",
+    "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Excalidraw/OS구조.png",
     "Excalidraw/OS구조 1.png",
     "Excalidraw/OS구조.excalidraw.md",
@@ -275,9 +278,6 @@
     "Excalidraw/메모리.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.11.02.excalidraw.md",
-    "Computer Science/운영체제/01_01_WhatIsOS.md",
-    "Computer Science/운영체제/01_02_Inturrupt.md",
-    "Computer Science/운영체제/01_03_System_Call.md",
     "Pasted image 20231201144032.png",
     "S구조.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
