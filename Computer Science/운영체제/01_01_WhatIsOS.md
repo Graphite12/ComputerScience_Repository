@@ -1,13 +1,13 @@
 # 프로그램
-- 실행가능한 명령어들의 집합
+- 실행가능한 명령어들의 집합, **프로세스**(Process)라고도함.
 # 운영체제의 구조
-
+![[Pasted image 20231201144032.png]]
 - **사용자 인터페이스(User Interface)**
-  - CLI (Command Line Interface)
+  - **CLI (Command Line Interface)**
 	- `sh`, `bash`, `csh`, `zsh`, `tcsh` 등 존재.
-  - GUI (Graphic User Interface)
+  - **GUI (Graphic User Interface)**
 	- `Windows`, `Linux`, `Mac OS` 등..
-  - Touch Screen Interface
+  - **Touch Screen Interface**
 	- `Android`, `Ios` 등 
 - **프로그램의 실행(Program execution)**
 	- 시스템은 프로그램을 메모리에 적재해 실행 가능.
@@ -130,7 +130,7 @@ int main () {
 	- CPU 작업 효율성이 떨어짐.
 
 - **멀티태스킹(Multi Tasking)**
-	- `Task`: O/S에서 처리하는 작업의 단위.
+	- `Task`: O/S에서 처리하는 작업의 단위.(process보다 상위개념)
 	- 여러 Task를 **CPU스케줄링**에 의해 번갈아가며 수행.
 
 

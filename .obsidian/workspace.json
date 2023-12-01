@@ -83,9 +83,11 @@
             "id": "834fe634afebad87",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/OS구조.md"
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 553.5
   },
   "right": {
     "id": "03a8737b2b704628",
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/OS구조.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/OS구조.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/OS구조.md"
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md"
               }
             }
           },
@@ -266,21 +268,23 @@
   },
   "active": "834fe634afebad87",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_02_Inturrupt.md",
+    "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
+    "Excalidraw/OS구조.excalidraw.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
+    "Pasted image 20231201144032.png",
+    "Excalidraw/Drawing 2023-11-19 23.11.15.excalidraw.md",
+    "S구조.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
-    "Excalidraw/OS구조.md",
     "Computer Science/네트워크/TCP/http.md",
     "Computer Science/네트워크/TCP/OSI 7계층.md",
     "Excalidraw/Drawing 2023-12-01 14.28.20.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.11.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-19 23.11.15.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.07.56.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.07.05.excalidraw.md",
     "README.md",
     "Mathmatics/삼각함수/게임과 삼각함수.md",
     "무제 파일.canvas",
-    "Computer Science/운영체제/01_02_Inturrupt.md",
     "Computer Science/운영체제/01_03_System_Call.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/삼각함수",
