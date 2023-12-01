@@ -1,6 +1,7 @@
 # 프로그램
 - 실행가능한 명령어들의 집합
 # 운영체제의 구조
+
 - **사용자 인터페이스(User Interface)**
   - CLI (Command Line Interface)
 	- `sh`, `bash`, `csh`, `zsh`, `tcsh` 등 존재.
@@ -131,5 +132,6 @@ int main () {
 - **멀티태스킹(Multi Tasking)**
 	- `Task`: O/S에서 처리하는 작업의 단위.
 	- 여러 Task를 **CPU스케줄링**에 의해 번갈아가며 수행.
+
 
 
