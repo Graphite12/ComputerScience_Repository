@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_02_Inturrupt.md",
+                "file": "Computer Science/운영체제/Operation System/01_03_System_Call.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/01_02_Inturrupt.md",
+                "file": "Computer Science/운영체제/Operation System/01_03_System_Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/01_02_Inturrupt.md",
+                "file": "Computer Science/운영체제/Operation System/01_03_System_Call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/01_02_Inturrupt.md"
+                "file": "Computer Science/운영체제/Operation System/01_03_System_Call.md"
               }
             }
           },
@@ -266,11 +266,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "834fe634afebad87",
+  "active": "3062eac48599991c",
   "lastOpenFiles": [
-    "Computer Science/운영체제/01_03_System_Call.md",
-    "Computer Science/운영체제/01_02_Inturrupt.md",
-    "Computer Science/운영체제/01_01_WhatIsOS.md",
+    "Computer Science/운영체제/Process & Threads",
+    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+    "Computer Science/운영체제/Operation System",
+    "Computer Science/운영체제/Operation System/01_03_System_Call.md",
+    "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Excalidraw/OS구조.png",
     "Excalidraw/OS구조 1.png",
     "Excalidraw/OS구조.excalidraw.md",
