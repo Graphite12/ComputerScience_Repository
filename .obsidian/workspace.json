@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터.md",
+                "file": "C++/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터.md",
+                "file": "C++/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터.md",
+                "file": "C++/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Computer Science/네트워크/TCP/http.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Computer Science/네트워크/TCP/http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Computer Science/네트워크/TCP/http.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md"
+                "file": "Computer Science/네트워크/TCP/http.md"
               }
             }
           },
@@ -268,8 +268,12 @@
   },
   "active": "834fe634afebad87",
   "lastOpenFiles": [
-    "Computer Science/운영체제/Operation System/01_03_System_Call.md",
+    "C++/객체지향 프로그래밍/OOP.md",
+    "C++/포인터/포인터.md",
+    "C++/포인터",
+    "C++/객체지향 프로그래밍",
     "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+    "Computer Science/운영체제/Operation System/01_03_System_Call.md",
     "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Computer Science/운영체제/Process, Threads",
     "Computer Science/운영체제/Operation System",
@@ -296,7 +300,6 @@
     "Mathmatics/이산수학/02_01증명.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
-    "C++/포인터.md",
     "C++/무제 파일.canvas",
     "Excalidraw",
     "C++/자료형.md",
