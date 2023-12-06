@@ -101,15 +101,14 @@ whereis gdb
 
 ### 학습 링크
 
+### C++ Language
+[Udemy C++ Beginer](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+
 ### 수학
 [동국대 수학자료](http://bigdata.dongguk.ac.kr/lectures/disc_math/_book/)
+[칸 아카데미](https://ko.khanacademy.org/)
 [Latex 문법](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
-
-
 ### 컴퓨터 공학
-[구글 바드](https://bard.google.com/chat/bfe4998e8106f61d)
-[한빛-운영체제]()
-[한빛-CPU]()
-[한빛-메모리](https://www.youtube.com/watch?v=_mQNCRA1fVA&list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl&index=18)
-[끄적끄적 티스토리, 메모리](https://lolki.tistory.com/2)
-[임베디드준, 메모리 요약본](https://velog.io/@embeddedjune/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC-10.-Memory-Hierarchy-1)
+[구글 바드](https://bard.google.com/chat/bfe4998e8106f61d) \br
+[wrtn.ai](https://wrtn.ai/)\br
+[OS 공룡책](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
