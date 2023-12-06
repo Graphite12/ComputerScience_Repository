@@ -93,16 +93,26 @@
             "id": "3724dcc4cbaa167d",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/메모리.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c55bc11434e229a4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md"
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md"
               }
             }
           },
@@ -276,29 +286,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3724dcc4cbaa167d",
+  "active": "c55bc11434e229a4",
   "lastOpenFiles": [
+    "Excalidraw/OS구조.png",
+    "Excalidraw/OS구조.excalidraw.md",
+    "Excalidraw/WIndows IRQ.png",
+    "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
-    "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+    "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
     "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
-    "Excalidraw/메모리.excalidraw.md",
+    "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+    "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "Computer Science/네트워크/TCP/http.md",
+    "Pasted Image 20231206221750_591.png",
+    "Excalidraw/메모리.excalidraw.md",
     "C++/객체지향 프로그래밍/OOP.md",
     "C++/포인터/포인터.md",
     "C++/포인터",
     "C++/객체지향 프로그래밍",
-    "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Computer Science/운영체제/Process, Threads",
     "Computer Science/운영체제/Operation System",
-    "Excalidraw/OS구조.png",
     "Excalidraw/OS구조 1.png",
-    "Excalidraw/OS구조.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.11.15.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.11.02.excalidraw.md",
     "Pasted image 20231201144032.png",
     "S구조.md",
-    "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "Computer Science/네트워크/TCP/OSI 7계층.md",
     "Excalidraw/Drawing 2023-12-01 14.28.20.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.07.05.excalidraw.md",
@@ -313,8 +326,6 @@
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "C++/무제 파일.canvas",
     "Excalidraw",
-    "C++/자료형.md",
-    "C++",
-    "Computer Science/하드웨어/1-1_메모리-기억장치.md"
+    "C++"
   ]
 }

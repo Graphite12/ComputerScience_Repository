@@ -1,8 +1,15 @@
-# 프로그램
-- 실행가능한 명령어들의 집합, **프로세스**(Process)라고도함.
+# 운영체제에서 말하는 프로그램
+
+- 컴퓨터에서 수행할 특정 작업을 위해 작성된 어떠한 명령어들의 집합
+- 물리적인 저장장치에 "파일"이라는 형태로 저장.
+## 프로세스와 스레드
+
+- 프로세스
+	- 프로그램의 `인스턴스화`
+	- `메모리`에 `로드`되어
 # 운영체제의 구조
 
-
+![[OS구조.png]]
 - **사용자 인터페이스(User Interface)**
   - **CLI (Command Line Interface)**
 	- `sh`, `bash`, `csh`, `zsh`, `tcsh` 등 존재.
@@ -42,51 +49,6 @@
 - 시스템 호출은 운영체제에서 제공하는 인터페이스이다.
 - 사용자 레벨의 프로그램이 운영체제의 커널에 서비스 요청할때 쓰임.
 - 파일 관리, 프로세스 제어, 메모리 관리, 네트워크 관, 시스템 정보 접근 등을 제공.
-
-### 시스템 호출의 유형
-1. **프로세서 제어**
-```cpp
-#include <cstdlib> // Windows, Linux, Mac OS 지원
-#include <Windows.h> // Windows에서만 사용가능
-#include <iostream>
-using std::cout, std::cerr, std::endl;
-
-int main() {
-	/* 프로세스의 생성 */
-	int status = system("ls -a");
-	
-	if(status == -1) {
-		cerr << "프로세스 생성에 실패했습니다." << endl;
-		exit(1); // 에러, 종료상태 1
-	}
-
-	cout << "프로세스가 성공적으로 실행되었습니다." << endl;
-	cout << "프로그램을 종료합니다." << endl;
-	/* 프로세스의 종료 */
-	exit(0);
-}
-```
-2. **파일 조작**
-
-```cpp
-#include <cstdio>
-
-int main () {
-
-	/* 파일 열기/ 닫기 */
-	FILE* file = fopen("path/to/hello.txt", "r");
-	fclose(file);
-	
-	/* 파일 읽기 */
-	fread();
-	fwrite();
-	
-	return 0;
-}
-
-```
-
-
 
 ## 인터럽트란?, interupt 
 
