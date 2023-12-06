@@ -3,7 +3,7 @@
 - O/S의 핵심
 - 컴퓨터의 자원(Resource) 관리.
 	+ CPU 스케줄링, 메모리 관리, I/O 관리,  파일 시스템 관리 등..
-	-  ㅂ
+	-  
 # User Mode와 Kernel  Mode
 
 
