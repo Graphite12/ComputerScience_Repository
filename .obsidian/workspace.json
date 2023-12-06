@@ -93,9 +93,11 @@
             "id": "3724dcc4cbaa167d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md"
+                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -166,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
+                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
+                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md"
+                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md"
               }
             }
           },
@@ -276,15 +278,15 @@
   },
   "active": "3724dcc4cbaa167d",
   "lastOpenFiles": [
-    "Excalidraw/메모리.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
     "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+    "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
+    "Excalidraw/메모리.excalidraw.md",
     "Computer Science/네트워크/TCP/http.md",
     "C++/객체지향 프로그래밍/OOP.md",
     "C++/포인터/포인터.md",
     "C++/포인터",
     "C++/객체지향 프로그래밍",
-    "Computer Science/운영체제/Operation System/01_03_System_Call.md",
+    "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
     "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Computer Science/운영체제/Process, Threads",
     "Computer Science/운영체제/Operation System",
