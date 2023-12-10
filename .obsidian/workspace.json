@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md"
+                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md"
               }
             }
           },
@@ -289,12 +289,12 @@
   "active": "c55bc11434e229a4",
   "lastOpenFiles": [
     "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Excalidraw/OS구조.png",
     "Excalidraw/OS구조.png",
     "Excalidraw/OS구조.excalidraw.md",
     "Excalidraw/WIndows IRQ.png",
-    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Excalidraw/Interrupt_Life_Cycle.png",
     "Excalidraw/Interrupt_Life_Cycle.excalidraw.md",
     "README.md",
