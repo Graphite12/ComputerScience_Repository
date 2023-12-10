@@ -190,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md"
+                "file": "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md"
               }
             }
           },
@@ -298,8 +296,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee7098816a88b6ea",
+  "active": "3062eac48599991c",
   "lastOpenFiles": [
+    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+    "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md",
     "Excalidraw/Interrupt_Life_Cycle.png",
     "Excalidraw/Interrupt_Life_Cycle.excalidraw.md",
     "Excalidraw/OS구조.png",
@@ -307,7 +307,6 @@
     "Excalidraw/systemCall.excalidraw.md",
     "Excalidraw/OS구조.excalidraw.md",
     "Excalidraw/Interrupt_Life_Cycle 1.png",
-    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
     "README.md",
