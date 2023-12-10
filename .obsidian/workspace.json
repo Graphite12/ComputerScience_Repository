@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md"
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md"
               }
             }
           },
@@ -300,16 +300,16 @@
   },
   "active": "ee7098816a88b6ea",
   "lastOpenFiles": [
-    "Excalidraw/systemCall.excalidraw.md",
-    "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
-    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
-    "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
-    "Excalidraw/OS구조.png",
-    "Excalidraw/OS구조.png",
-    "Excalidraw/OS구조.excalidraw.md",
-    "Excalidraw/WIndows IRQ.png",
     "Excalidraw/Interrupt_Life_Cycle.png",
     "Excalidraw/Interrupt_Life_Cycle.excalidraw.md",
+    "Excalidraw/OS구조.png",
+    "Excalidraw/WIndows IRQ.png",
+    "Excalidraw/systemCall.excalidraw.md",
+    "Excalidraw/OS구조.excalidraw.md",
+    "Excalidraw/Interrupt_Life_Cycle 1.png",
+    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+    "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
+    "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
     "README.md",
     "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
@@ -338,7 +338,6 @@
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Mathmatics/이산수학/02_01증명.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
-    "Mathmatics/이산수학/00_02논리적 동치.md",
     "C++/무제 파일.canvas",
     "Excalidraw",
     "C++"
