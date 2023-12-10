@@ -103,11 +103,9 @@
             "id": "c55bc11434e229a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md"
               }
             }
           }
@@ -178,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md"
+                "file": "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md"
               }
             }
           },
@@ -288,15 +286,15 @@
   },
   "active": "c55bc11434e229a4",
   "lastOpenFiles": [
+    "Excalidraw/OS구조.excalidraw.md",
+    "Excalidraw/WIndows IRQ.png",
+    "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
+    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "README.md",
     "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
     "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Excalidraw/OS구조.png",
-    "Excalidraw/OS구조.excalidraw.md",
-    "Excalidraw/WIndows IRQ.png",
-    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-06 20.51.06.excalidraw.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "Computer Science/네트워크/TCP/http.md",
     "Pasted Image 20231206221750_591.png",
