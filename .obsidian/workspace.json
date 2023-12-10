@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
+                "file": "C++/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/포인터/포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/포인터/포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md"
+                "file": "C++/포인터/포인터.md"
               }
             }
           },
@@ -296,10 +298,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3062eac48599991c",
+  "active": "ee7098816a88b6ea",
   "lastOpenFiles": [
-    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md",
+    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Excalidraw/Interrupt_Life_Cycle.png",
     "Excalidraw/Interrupt_Life_Cycle.excalidraw.md",
     "Excalidraw/OS구조.png",
