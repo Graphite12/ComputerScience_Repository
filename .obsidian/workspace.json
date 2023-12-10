@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Science/운영체제/Operation System/01_02_Inturrupt.md"
               }
             }
           },
@@ -288,6 +288,7 @@
   },
   "active": "c55bc11434e229a4",
   "lastOpenFiles": [
+    "README.md",
     "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
     "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
     "Excalidraw/OS구조.png",
@@ -315,7 +316,6 @@
     "Computer Science/네트워크/TCP/OSI 7계층.md",
     "Excalidraw/Drawing 2023-12-01 14.28.20.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.07.05.excalidraw.md",
-    "README.md",
     "Mathmatics/삼각함수/게임과 삼각함수.md",
     "무제 파일.canvas",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
