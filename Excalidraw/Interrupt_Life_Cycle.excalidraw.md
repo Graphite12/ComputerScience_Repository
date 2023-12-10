@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-인터럽트 LifeCYcle
+Interrupt LifeCYcle
  ^EqBYBTsL
 
 Interrupt 신호 생성 ^RN2TR3NK
@@ -38,7 +38,9 @@ Interrupt
 
 Kernel Mode ^EejyfZ52
 
-register 값 저장 ^8apJV97G
+상태 비트 설정 ^8apJV97G
+
+이전 프로세스 ^Ky41tELG
 
 %%
 # Drawing
@@ -48,6 +50,93 @@ register 값 저장 ^8apJV97G
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.1",
 	"elements": [
+		{
+			"type": "rectangle",
+			"version": 587,
+			"versionNonce": 1120364051,
+			"isDeleted": false,
+			"id": "5RyqLggnZ-ZZQmDcctPZ9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 172.06344696969694,
+			"y": 37.73996803977275,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 129.375,
+			"height": 49,
+			"seed": 1532519581,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "wRvlVTrx"
+				},
+				{
+					"id": "_az_zGQ-TTDjJrlVN-gLo",
+					"type": "arrow"
+				},
+				{
+					"id": "WR_s3ONx_fRv6RfMqyI5K",
+					"type": "arrow"
+				},
+				{
+					"id": "UW1JAoPyhaNXsHwpT0Cns",
+					"type": "arrow"
+				},
+				{
+					"id": "3_niShlCA5uMHjVLJ1WX3",
+					"type": "arrow"
+				}
+			],
+			"updated": 1702194535945,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 682,
+			"versionNonce": 1012398237,
+			"isDeleted": false,
+			"id": "wRvlVTrx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 183.25094696969694,
+			"y": 43.039968039772745,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 107,
+			"height": 38.4,
+			"seed": 1199294717,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1702194535945,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Stack \nPointer 저장",
+			"rawText": "Stack Pointer 저장",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "5RyqLggnZ-ZZQmDcctPZ9",
+			"originalText": "Stack Pointer 저장",
+			"lineHeight": 1.2,
+			"baseline": 34
+		},
 		{
 			"type": "rectangle",
 			"version": 428,
@@ -125,8 +214,8 @@ register 값 저장 ^8apJV97G
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 1586681533,
+			"version": 160,
+			"versionNonce": 624179315,
 			"isDeleted": false,
 			"id": "EqBYBTsL",
 			"fillStyle": "solid",
@@ -135,35 +224,35 @@ register 값 저장 ^8apJV97G
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -75.96212121212116,
-			"y": -238.93442234848487,
+			"x": -108.46212121212116,
+			"y": -166.43442234848487,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 176.4599151611328,
-			"height": 50,
+			"width": 339.58782958984375,
+			"height": 90,
 			"seed": 1548488157,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702192854587,
+			"updated": 1702194606626,
 			"link": null,
 			"locked": false,
-			"fontSize": 20,
+			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "인터럽트 LifeCYcle\n",
-			"rawText": "인터럽트 LifeCYcle\n",
+			"text": "Interrupt LifeCYcle\n",
+			"rawText": "Interrupt LifeCYcle\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "인터럽트 LifeCYcle\n",
+			"originalText": "Interrupt LifeCYcle\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 77
 		},
 		{
 			"type": "rectangle",
-			"version": 675,
-			"versionNonce": 1164473843,
+			"version": 697,
+			"versionNonce": 1004602941,
 			"isDeleted": false,
 			"id": "hV9BXD7d5wYW0ZVSdP1nB",
 			"fillStyle": "solid",
@@ -172,8 +261,8 @@ register 값 저장 ^8apJV97G
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -8.231060606060623,
-			"y": -16.945785984848555,
+			"x": -3.8560606060606233,
+			"y": -25.070785984848555,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 120.7121212121212,
@@ -188,16 +277,24 @@ register 값 저장 ^8apJV97G
 				{
 					"type": "text",
 					"id": "TgWvamBy"
+				},
+				{
+					"id": "Cri5GScWEvwrus0ZobNTF",
+					"type": "arrow"
+				},
+				{
+					"id": "54FsebIJxTkC-Fkxxjdfn",
+					"type": "arrow"
 				}
 			],
-			"updated": 1702194322674,
+			"updated": 1702194550733,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 744,
-			"versionNonce": 1965944157,
+			"version": 764,
+			"versionNonce": 1921556467,
 			"isDeleted": false,
 			"id": "TgWvamBy",
 			"fillStyle": "solid",
@@ -206,8 +303,8 @@ register 값 저장 ^8apJV97G
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 12.124999999999979,
-			"y": -11.945785984848555,
+			"x": 16.49999999999998,
+			"y": -20.070785984848555,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 80,
@@ -217,7 +314,7 @@ register 값 저장 ^8apJV97G
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702193382414,
+			"updated": 1702194550721,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -233,8 +330,8 @@ register 값 저장 ^8apJV97G
 		},
 		{
 			"type": "rectangle",
-			"version": 276,
-			"versionNonce": 665515795,
+			"version": 306,
+			"versionNonce": 878926355,
 			"isDeleted": false,
 			"id": "NCiuDyQZFH9ISxsmGPcLy",
 			"fillStyle": "hachure",
@@ -248,7 +345,7 @@ register 값 저장 ^8apJV97G
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
 			"width": 592.840909090909,
-			"height": 539.0151515151515,
+			"height": 480.2651515151515,
 			"seed": 769727123,
 			"groupIds": [],
 			"frameId": null,
@@ -256,7 +353,7 @@ register 값 저장 ^8apJV97G
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1702194363366,
+			"updated": 1702194542830,
 			"link": null,
 			"locked": false
 		},
@@ -299,8 +396,8 @@ register 값 저장 ^8apJV97G
 		},
 		{
 			"type": "arrow",
-			"version": 540,
-			"versionNonce": 963856925,
+			"version": 541,
+			"versionNonce": 638135581,
 			"isDeleted": false,
 			"id": "Cri5GScWEvwrus0ZobNTF",
 			"fillStyle": "hachure",
@@ -322,7 +419,7 @@ register 값 저장 ^8apJV97G
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1702194500068,
+			"updated": 1702194550733,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -330,7 +427,11 @@ register 값 저장 ^8apJV97G
 				"gap": 2.556818181818187,
 				"focus": 0.06682045446626633
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "hV9BXD7d5wYW0ZVSdP1nB",
+				"focus": -0.18328849142519213,
+				"gap": 4.1230692110090885
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -389,8 +490,8 @@ register 값 저장 ^8apJV97G
 		},
 		{
 			"type": "rectangle",
-			"version": 928,
-			"versionNonce": 401431539,
+			"version": 937,
+			"versionNonce": 1051400797,
 			"isDeleted": false,
 			"id": "10_0C8ckWUYpjk_73ooRU",
 			"fillStyle": "solid",
@@ -400,7 +501,7 @@ register 값 저장 ^8apJV97G
 			"opacity": 100,
 			"angle": 0,
 			"x": -6.1051136363636545,
-			"y": 25.36496803977269,
+			"y": 22.23996803977269,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 120.7121212121212,
@@ -433,14 +534,14 @@ register 값 저장 ^8apJV97G
 					"type": "arrow"
 				}
 			],
-			"updated": 1702194276028,
+			"updated": 1702194564332,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1010,
-			"versionNonce": 1552026963,
+			"version": 1015,
+			"versionNonce": 1292081885,
 			"isDeleted": false,
 			"id": "VvfZB8lj",
 			"fillStyle": "solid",
@@ -450,7 +551,7 @@ register 값 저장 ^8apJV97G
 			"opacity": 100,
 			"angle": 0,
 			"x": 2.2509469696969475,
-			"y": 34.73996803977269,
+			"y": 31.61496803977269,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 104,
@@ -460,7 +561,7 @@ register 값 저장 ^8apJV97G
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702193764179,
+			"updated": 1702194557200,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -553,15 +654,15 @@ register 값 저장 ^8apJV97G
 			"id": "vxRd5GeMaTO-5wIGV23A3",
 			"type": "rectangle",
 			"x": 158.00094696969694,
-			"y": -65.88503196022725,
-			"width": 152.5,
-			"height": 165.625,
+			"y": -82.13503196022728,
+			"width": 160,
+			"height": 181.25000000000003,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
-			"strokeStyle": "solid",
+			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
@@ -570,8 +671,8 @@ register 값 저장 ^8apJV97G
 				"type": 3
 			},
 			"seed": 1618330099,
-			"version": 744,
-			"versionNonce": 1750007549,
+			"version": 776,
+			"versionNonce": 1508482803,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -579,19 +680,19 @@ register 값 저장 ^8apJV97G
 					"type": "arrow"
 				}
 			],
-			"updated": 1702194497995,
+			"updated": 1702194646527,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "TARNV8Wz3eEWItYNtRcsO",
 			"type": "rectangle",
-			"x": 171.12594696969694,
-			"y": -18.385031960227252,
+			"x": 173.00094696969694,
+			"y": -17.135031960227252,
 			"width": 130.625,
 			"height": 49,
 			"angle": 0,
-			"strokeColor": "#2f9e44",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -604,8 +705,8 @@ register 값 저장 ^8apJV97G
 				"type": 3
 			},
 			"seed": 884287443,
-			"version": 641,
-			"versionNonce": 121063603,
+			"version": 647,
+			"versionNonce": 885025277,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -613,19 +714,19 @@ register 값 저장 ^8apJV97G
 					"id": "GiWN5wBy"
 				}
 			],
-			"updated": 1702194018516,
+			"updated": 1702194528481,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "GiWN5wBy",
 			"type": "text",
-			"x": 181.56344696969694,
-			"y": -13.085031960227251,
+			"x": 183.43844696969694,
+			"y": -11.835031960227251,
 			"width": 109.75,
 			"height": 38.4,
 			"angle": 0,
-			"strokeColor": "#2f9e44",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -636,11 +737,11 @@ register 값 저장 ^8apJV97G
 			"frameId": null,
 			"roundness": null,
 			"seed": 1295242643,
-			"version": 584,
-			"versionNonce": 1922004541,
+			"version": 590,
+			"versionNonce": 1162936403,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1702194500073,
+			"updated": 1702194528481,
 			"link": null,
 			"locked": false,
 			"text": "register 값 \n저장",
@@ -653,93 +754,6 @@ register 값 저장 ^8apJV97G
 			"containerId": "TARNV8Wz3eEWItYNtRcsO",
 			"originalText": "register 값 저장",
 			"lineHeight": 1.2
-		},
-		{
-			"type": "rectangle",
-			"version": 583,
-			"versionNonce": 489631549,
-			"isDeleted": false,
-			"id": "5RyqLggnZ-ZZQmDcctPZ9",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 172.06344696969694,
-			"y": 37.73996803977275,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 129.375,
-			"height": 49,
-			"seed": 1532519581,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "wRvlVTrx"
-				},
-				{
-					"id": "_az_zGQ-TTDjJrlVN-gLo",
-					"type": "arrow"
-				},
-				{
-					"id": "WR_s3ONx_fRv6RfMqyI5K",
-					"type": "arrow"
-				},
-				{
-					"id": "UW1JAoPyhaNXsHwpT0Cns",
-					"type": "arrow"
-				},
-				{
-					"id": "3_niShlCA5uMHjVLJ1WX3",
-					"type": "arrow"
-				}
-			],
-			"updated": 1702194307472,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 678,
-			"versionNonce": 178293619,
-			"isDeleted": false,
-			"id": "wRvlVTrx",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 183.25094696969694,
-			"y": 43.039968039772745,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 107,
-			"height": 38.4,
-			"seed": 1199294717,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1702194035091,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 3,
-			"text": "Stack \nPointer 저장",
-			"rawText": "Stack Pointer 저장",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "5RyqLggnZ-ZZQmDcctPZ9",
-			"originalText": "Stack Pointer 저장",
-			"lineHeight": 1.2,
-			"baseline": 34
 		},
 		{
 			"id": "phCYBJJ8",
@@ -781,10 +795,10 @@ register 값 저장 ^8apJV97G
 		{
 			"id": "_az_zGQ-TTDjJrlVN-gLo",
 			"type": "arrow",
-			"x": 118.03179530460739,
-			"y": 35.87371051126857,
-			"width": 37.14954939236233,
-			"height": 5.085181874604096,
+			"x": 118.03179530460734,
+			"y": 31.504242137111895,
+			"width": 37.149549392362374,
+			"height": 6.0803292468535695,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -799,11 +813,11 @@ register 값 저장 ^8apJV97G
 				"type": 2
 			},
 			"seed": 94867123,
-			"version": 821,
-			"versionNonce": 340017981,
+			"version": 895,
+			"versionNonce": 421042429,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1702194500070,
+			"updated": 1702194645384,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -812,8 +826,8 @@ register 값 저장 ^8apJV97G
 					0
 				],
 				[
-					37.14954939236233,
-					-5.085181874604096
+					37.149549392362374,
+					-6.0803292468535695
 				]
 			],
 			"lastCommittedPoint": [
@@ -929,8 +943,8 @@ register 값 저장 ^8apJV97G
 				"type": 3
 			},
 			"seed": 1402581565,
-			"version": 131,
-			"versionNonce": 283611571,
+			"version": 132,
+			"versionNonce": 1640995133,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -944,13 +958,9 @@ register 값 저장 ^8apJV97G
 				{
 					"id": "3_niShlCA5uMHjVLJ1WX3",
 					"type": "arrow"
-				},
-				{
-					"id": "ALFft8VTBZ23O_0Bnaygj",
-					"type": "arrow"
 				}
 			],
-			"updated": 1702194352210,
+			"updated": 1702194568965,
 			"link": null,
 			"locked": false
 		},
@@ -995,9 +1005,9 @@ register 값 저장 ^8apJV97G
 			"id": "WR_s3ONx_fRv6RfMqyI5K",
 			"type": "arrow",
 			"x": 157.0563446969697,
-			"y": 52.86496803977269,
+			"y": 51.967836442304026,
 			"width": 40,
-			"height": 1.25,
+			"height": 2.0132919990252987,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1012,11 +1022,11 @@ register 값 저장 ^8apJV97G
 				"type": 2
 			},
 			"seed": 492289235,
-			"version": 141,
-			"versionNonce": 722127613,
+			"version": 151,
+			"versionNonce": 808764509,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1702194500073,
+			"updated": 1702194557200,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1026,7 +1036,7 @@ register 값 저장 ^8apJV97G
 				],
 				[
 					-40,
-					-1.25
+					-2.0132919990252987
 				]
 			],
 			"lastCommittedPoint": [
@@ -1049,10 +1059,10 @@ register 값 저장 ^8apJV97G
 		{
 			"id": "54FsebIJxTkC-Fkxxjdfn",
 			"type": "arrow",
-			"x": 49.52572808770431,
-			"y": 16.61496803977269,
-			"width": 1.9056166092653797,
-			"height": 6.875,
+			"x": 51.40072808770431,
+			"y": 7.864968039772691,
+			"width": 0.026424747112173463,
+			"height": 11.874999999999996,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1067,11 +1077,11 @@ register 값 저장 ^8apJV97G
 				"type": 2
 			},
 			"seed": 352231933,
-			"version": 82,
-			"versionNonce": 222187613,
+			"version": 113,
+			"versionNonce": 908387709,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1702194500070,
+			"updated": 1702194557200,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1080,30 +1090,30 @@ register 값 저장 ^8apJV97G
 					0
 				],
 				[
-					1.9056166092653797,
-					6.875
+					0.026424747112173463,
+					11.874999999999996
 				]
 			],
 			"lastCommittedPoint": [
 				0,
 				6.875
 			],
-			"startBinding": {
+			"startBinding": null,
+			"endBinding": {
 				"elementId": "10_0C8ckWUYpjk_73ooRU",
-				"gap": 8.75,
-				"focus": 0.04671614158403392
+				"focus": -0.04594627301517391,
+				"gap": 2.5
 			},
-			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
 		},
 		{
 			"id": "JYeLfpx-YM7apaagixqqY",
 			"type": "arrow",
-			"x": 49.59005370572524,
-			"y": 59.11496803977269,
-			"width": 5.6705971056704385,
-			"height": 16.25,
+			"x": 53.606261639646235,
+			"y": 59.739968039772684,
+			"width": 1.1261394412452645,
+			"height": 16.831655274031696,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1118,11 +1128,11 @@ register 값 저장 ^8apJV97G
 				"type": 2
 			},
 			"seed": 1588069565,
-			"version": 36,
-			"versionNonce": 1353234909,
+			"version": 184,
+			"versionNonce": 1214284765,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1702194500072,
+			"updated": 1702194564644,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1131,8 +1141,8 @@ register 값 저장 ^8apJV97G
 					0
 				],
 				[
-					-5.6705971056704385,
-					16.25
+					-1.1261394412452645,
+					16.831655274031696
 				]
 			],
 			"lastCommittedPoint": [
@@ -1140,14 +1150,14 @@ register 값 저장 ^8apJV97G
 				16.25
 			],
 			"startBinding": {
-				"elementId": "29yURTIgSUvG60VhpEE-T",
-				"gap": 15.125,
-				"focus": 0.01565049579515526
+				"elementId": "rbcFMSPOY_IkDxE9Dnxoc",
+				"focus": 0.09187624177822837,
+				"gap": 10.625000000000057
 			},
 			"endBinding": {
 				"elementId": "10_0C8ckWUYpjk_73ooRU",
-				"gap": 11.25,
-				"focus": -0.00529528053219508
+				"focus": 0.00921273152490058,
+				"gap": 15.58165527403169
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1202,10 +1212,10 @@ register 값 저장 ^8apJV97G
 		{
 			"id": "ALFft8VTBZ23O_0Bnaygj",
 			"type": "arrow",
-			"x": 75.97151454768802,
-			"y": 261.6149680397727,
-			"width": 15.530857016649335,
-			"height": 15.625,
+			"x": 54.72151454768802,
+			"y": 260.9899680397727,
+			"width": 1.1558570166493354,
+			"height": 17.5,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1220,11 +1230,11 @@ register 값 저장 ^8apJV97G
 				"type": 2
 			},
 			"seed": 141555827,
-			"version": 72,
-			"versionNonce": 948059645,
+			"version": 127,
+			"versionNonce": 61402611,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1702194500076,
+			"updated": 1702194571160,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1233,23 +1243,19 @@ register 값 저장 ^8apJV97G
 					0
 				],
 				[
-					15.530857016649335,
-					15.625
+					1.1558570166493354,
+					17.5
 				]
 			],
 			"lastCommittedPoint": [
 				-1.25,
 				23.75
 			],
-			"startBinding": {
-				"elementId": "omLL6z69YPVTyTeUD0_k4",
-				"gap": 15.625,
-				"focus": -0.03
-			},
+			"startBinding": null,
 			"endBinding": {
-				"elementId": "kOpMo1FVgqYPvRBzU4IRs",
-				"gap": 15.625,
-				"focus": 0.11480519480519481
+				"elementId": "rbcFMSPOY_IkDxE9Dnxoc",
+				"focus": -0.06360535819524439,
+				"gap": 5.624999999999943
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1375,10 +1381,10 @@ register 값 저장 ^8apJV97G
 		{
 			"id": "rbcFMSPOY_IkDxE9Dnxoc",
 			"type": "rectangle",
-			"x": -34.19365530303031,
-			"y": 69.11496803977269,
+			"x": -33.56865530303031,
+			"y": 70.36496803977275,
 			"width": 176.875,
-			"height": 200,
+			"height": 202.49999999999997,
 			"angle": 0,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
@@ -1393,11 +1399,20 @@ register 값 저장 ^8apJV97G
 				"type": 3
 			},
 			"seed": 1938809021,
-			"version": 133,
-			"versionNonce": 755776691,
+			"version": 150,
+			"versionNonce": 1826500093,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1702194469952,
+			"boundElements": [
+				{
+					"id": "JYeLfpx-YM7apaagixqqY",
+					"type": "arrow"
+				},
+				{
+					"id": "ALFft8VTBZ23O_0Bnaygj",
+					"type": "arrow"
+				}
+			],
+			"updated": 1702194568965,
 			"link": null,
 			"locked": false
 		},
@@ -1440,8 +1455,8 @@ register 값 저장 ^8apJV97G
 		},
 		{
 			"type": "rectangle",
-			"version": 643,
-			"versionNonce": 533972851,
+			"version": 721,
+			"versionNonce": 1524280477,
 			"isDeleted": false,
 			"id": "3b1E7YXB3pEZPPWY_Myuz",
 			"fillStyle": "hachure",
@@ -1450,8 +1465,8 @@ register 값 저장 ^8apJV97G
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 186.7438446969697,
-			"y": -19.76003196022731,
+			"x": 171.7438446969697,
+			"y": -71.63503196022731,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 130.625,
@@ -1468,14 +1483,14 @@ register 값 저장 ^8apJV97G
 					"id": "8apJV97G"
 				}
 			],
-			"updated": 1702194499700,
+			"updated": 1702194520074,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 586,
-			"versionNonce": 663275187,
+			"version": 711,
+			"versionNonce": 576145693,
 			"isDeleted": false,
 			"id": "8apJV97G",
 			"fillStyle": "hachure",
@@ -1484,49 +1499,86 @@ register 값 저장 ^8apJV97G
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 197.1813446969697,
-			"y": -14.460031960227308,
+			"x": 179.6813446969697,
+			"y": -56.73503196022731,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 109.75,
-			"height": 38.4,
+			"width": 114.75,
+			"height": 19.2,
 			"seed": 1304747325,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702194499701,
+			"updated": 1702194524220,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "register 값 \n저장",
-			"rawText": "register 값 저장",
+			"text": "상태 비트 설정",
+			"rawText": "상태 비트 설정",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "3b1E7YXB3pEZPPWY_Myuz",
-			"originalText": "register 값 저장",
+			"originalText": "상태 비트 설정",
 			"lineHeight": 1.2,
-			"baseline": 34
+			"baseline": 15
+		},
+		{
+			"id": "Ky41tELG",
+			"type": "text",
+			"x": 182.6813446969697,
+			"y": -102.13503196022731,
+			"width": 105.375,
+			"height": 19.2,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dotted",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 681586237,
+			"version": 131,
+			"versionNonce": 423190835,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1702194643836,
+			"link": null,
+			"locked": false,
+			"text": "이전 프로세스",
+			"rawText": "이전 프로세스",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "이전 프로세스",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#f08c00",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "dotted",
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
+		"currentItemFontFamily": 3,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 302.6311553030303,
-		"scrollY": 134.3322975852273,
+		"scrollY": 196.8322975852273,
 		"zoom": {
 			"value": 1.6
 		},
