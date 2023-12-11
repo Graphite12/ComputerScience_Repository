@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터/포인터.md",
+                "file": "C++/수식/일반 사칙연산.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/포인터/포인터.md",
+                "file": "C++/수식/일반 사칙연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/포인터/포인터.md",
+                "file": "C++/수식/일반 사칙연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/포인터/포인터.md"
+                "file": "C++/수식/일반 사칙연산.md"
               }
             }
           },
@@ -300,6 +300,9 @@
   },
   "active": "ee7098816a88b6ea",
   "lastOpenFiles": [
+    "C++/포인터/포인터.md",
+    "C++/수식/일반 사칙연산.md",
+    "C++/수식",
     "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md",
     "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Excalidraw/Interrupt_Life_Cycle.png",
@@ -318,7 +321,6 @@
     "Pasted Image 20231206221750_591.png",
     "Excalidraw/메모리.excalidraw.md",
     "C++/객체지향 프로그래밍/OOP.md",
-    "C++/포인터/포인터.md",
     "C++/포인터",
     "C++/객체지향 프로그래밍",
     "Computer Science/운영체제/Process, Threads",
@@ -338,7 +340,6 @@
     "Mathmatics/삼각함수",
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Mathmatics/이산수학/02_01증명.md",
-    "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "C++/무제 파일.canvas",
     "Excalidraw",
     "C++"
