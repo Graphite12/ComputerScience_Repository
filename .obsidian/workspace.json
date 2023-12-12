@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/LeetCode_Algorithm/무제 파일.md",
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/LeetCode_Algorithm/무제 파일.md",
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/LeetCode_Algorithm/무제 파일.md",
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/LeetCode_Algorithm/무제 파일.md"
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md"
               }
             }
           },
@@ -310,9 +310,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3062eac48599991c",
+  "active": "e3164d09bde6fcff",
   "lastOpenFiles": [
-    "C++/LeetCode_Algorithm/무제 파일.md",
+    "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
     "C++/LeetCode_Algorithm",
     "C++/수식/일반 사칙연산.md",
     "C++/포인터/포인터.md",
