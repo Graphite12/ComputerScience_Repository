@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/수식/수식 라이브러리.md",
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/수식/수식 라이브러리.md",
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/수식/수식 라이브러리.md",
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/수식/수식 라이브러리.md"
+                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md"
               }
             }
           },
@@ -312,8 +312,8 @@
   },
   "active": "e3164d09bde6fcff",
   "lastOpenFiles": [
-    "C++/수식/일반 사칙연산.md",
     "C++/수식/수식 라이브러리.md",
+    "C++/수식/일반 사칙연산.md",
     "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
     "C++/LeetCode_Algorithm",
     "C++/포인터/포인터.md",
