@@ -122,9 +122,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3164d09bde6fcff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/LeetCode_Algorithm/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/수식/일반 사칙연산.md",
+                "file": "C++/LeetCode_Algorithm/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/수식/일반 사칙연산.md",
+                "file": "C++/LeetCode_Algorithm/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/수식/일반 사칙연산.md"
+                "file": "C++/LeetCode_Algorithm/무제 파일.md"
               }
             }
           },
@@ -298,10 +310,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee7098816a88b6ea",
+  "active": "3062eac48599991c",
   "lastOpenFiles": [
-    "C++/포인터/포인터.md",
+    "C++/LeetCode_Algorithm/무제 파일.md",
+    "C++/LeetCode_Algorithm",
     "C++/수식/일반 사칙연산.md",
+    "C++/포인터/포인터.md",
     "C++/수식",
     "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md",
     "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
@@ -338,8 +352,6 @@
     "무제 파일.canvas",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/삼각함수",
-    "Mathmatics/이산수학/00_01논리와 명제.md",
-    "Mathmatics/이산수학/02_01증명.md",
     "C++/무제 파일.canvas",
     "Excalidraw",
     "C++"
