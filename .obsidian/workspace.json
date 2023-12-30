@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md"
+                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md"
               }
             }
           },
@@ -312,8 +312,11 @@
   },
   "active": "e3164d09bde6fcff",
   "lastOpenFiles": [
-    "C++/수식/수식 라이브러리.md",
+    "Mathmatics/이산수학/00_02논리적 동치.md",
+    "Mathmatics/이산수학/00_01논리와 명제.md",
     "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
+    "Mathmatics/삼각함수/게임과 삼각함수.md",
+    "C++/수식/수식 라이브러리.md",
     "C++/수식/일반 사칙연산.md",
     "C++/LeetCode_Algorithm",
     "C++/포인터/포인터.md",
@@ -348,10 +351,7 @@
     "S구조.md",
     "Computer Science/네트워크/TCP/OSI 7계층.md",
     "Excalidraw/Drawing 2023-12-01 14.28.20.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-19 23.07.05.excalidraw.md",
-    "Mathmatics/삼각함수/게임과 삼각함수.md",
     "무제 파일.canvas",
-    "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/삼각함수",
     "C++/무제 파일.canvas",
     "Excalidraw",
