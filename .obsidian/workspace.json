@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
+                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
+                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
+                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/01_01집합(Set)의 기초.md"
+                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md"
               }
             }
           },
@@ -312,6 +312,7 @@
   },
   "active": "e3164d09bde6fcff",
   "lastOpenFiles": [
+    "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
@@ -350,7 +351,6 @@
     "Pasted image 20231201144032.png",
     "S구조.md",
     "Computer Science/네트워크/TCP/OSI 7계층.md",
-    "Excalidraw/Drawing 2023-12-01 14.28.20.excalidraw.md",
     "무제 파일.canvas",
     "Mathmatics/삼각함수",
     "C++/무제 파일.canvas",
