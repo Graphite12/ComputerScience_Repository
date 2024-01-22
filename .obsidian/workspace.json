@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_05_Memory.md",
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/01_05_Memory.md",
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/01_05_Memory.md",
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/01_05_Memory.md"
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md"
               }
             }
           },
@@ -324,9 +324,10 @@
   },
   "active": "acd350f51a6c71ad",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_07_02_Virtual Memory.md",
+    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Computer Science/운영체제/01_04_Process와 Threads.md",
     "Computer Science/운영체제/01_02_Inturrupt.md",
-    "Computer Science/운영체제/01_05_Memory.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
@@ -361,7 +362,6 @@
     "Computer Science/운영체제/Operation System",
     "Excalidraw/OS구조 1.png",
     "Excalidraw/Drawing 2023-11-19 23.11.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
     "Pasted image 20231201144032.png",
     "무제 파일.canvas",
     "Mathmatics/삼각함수",
