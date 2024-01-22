@@ -15,6 +15,29 @@
 ### 메모리 공간 보호
 ![[Memory_trap.png]]
 - CPU가 User Mode에서 특정 메모리 공간에 위치한 프로세스를 접근했을때, Base와 Limit register를 초과 할경우 Trap을 건다.
-- 
+- 프로세스간 코드, 데이터 구조를 수정되는 것을 방지 할 수 있다. 
 
 # 주소 할당
+메모리 주소는 두가지 방식으로 나뉜다
+
+- Vritual Address
+	- 
+- Physical Address
+
+
+
+### Binding 시점
+
+Binding을 하는 시점은 3가지로 나뉜다.
+
+- Compile Time
+	-  컴파일 시, 메모리 주소가 결정되며, 메모리주소가 고정된 Absolute Code를 생성한다.
+	-  만약 메모리 시작 위치가 바뀐다면, 컴파일을 다시 수행해야한다.
+- Load Time
+	- 
+- Execution Time
+	- 프로세스가 실행되는 동안 새로운 주소로 바인딩 될 수 있다.
+	- 주로 가상메모리 환경에서 발생하며, 실제로 메모리에 액세스 하려는 시점에 바인딩.
+	- 메모리 관리 유닛(MMU)에 의해 처리
+
+
