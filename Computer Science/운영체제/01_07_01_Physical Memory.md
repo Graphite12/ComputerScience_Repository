@@ -13,5 +13,8 @@
 
 
 ### 메모리 공간 보호
+![[Memory_trap.png]]
+- CPU가 User Mode에서 특정 메모리 공간에 위치한 프로세스를 접근했을때, Base와 Limit register를 초과 할경우 Trap을 건다.
+- 
 
 # 주소 할당
