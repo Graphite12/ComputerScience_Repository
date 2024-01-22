@@ -48,7 +48,7 @@ Binding을 하는 시점은 3가지로 나뉜다. 현대에서는 주로 **Execu
 
 ### 메모리 관리 유닛, MMU
 
-
+- relocation register
 # 페이징 
 
 
