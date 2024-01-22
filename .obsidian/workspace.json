@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+                "file": "Computer Science/운영체제/01_03_Kernel과 System_Call.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,14 +129,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
+                "file": "Computer Science/운영체제/01_01_WhatIsOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd350f51a6c71ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/운영체제/01_05_Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 312.5
   },
   "right": {
     "id": "03a8737b2b704628",
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
+                "file": "Computer Science/운영체제/01_05_Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
+                "file": "Computer Science/운영체제/01_05_Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/01_02집합(Set)의 연산.md"
+                "file": "Computer Science/운영체제/01_05_Memory.md"
               }
             }
           },
@@ -310,8 +322,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3164d09bde6fcff",
+  "active": "acd350f51a6c71ad",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_04_Process와 Threads.md",
+    "Computer Science/운영체제/01_02_Inturrupt.md",
+    "Computer Science/운영체제/01_05_Memory.md",
+    "Computer Science/운영체제/01_01_WhatIsOS.md",
+    "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
@@ -323,7 +340,6 @@
     "C++/포인터/포인터.md",
     "C++/수식",
     "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md",
-    "Computer Science/운영체제/Operation System/01_02_Inturrupt.md",
     "Excalidraw/Interrupt_Life_Cycle.png",
     "Excalidraw/Interrupt_Life_Cycle.excalidraw.md",
     "Excalidraw/OS구조.png",
@@ -331,8 +347,7 @@
     "Excalidraw/systemCall.excalidraw.md",
     "Excalidraw/OS구조.excalidraw.md",
     "Excalidraw/Interrupt_Life_Cycle 1.png",
-    "Computer Science/운영체제/Operation System/01_01_WhatIsOS.md",
-    "Computer Science/운영체제/Operation System/01_03_Kernel과 System_Call.md",
+    "Computer Science/운영체제/01_03_Kernel과 System_Call.md",
     "README.md",
     "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
@@ -347,10 +362,7 @@
     "Excalidraw/OS구조 1.png",
     "Excalidraw/Drawing 2023-11-19 23.11.15.excalidraw.md",
     "Excalidraw/Drawing 2023-11-19 23.10.49.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-19 23.11.02.excalidraw.md",
     "Pasted image 20231201144032.png",
-    "S구조.md",
-    "Computer Science/네트워크/TCP/OSI 7계층.md",
     "무제 파일.canvas",
     "Mathmatics/삼각함수",
     "C++/무제 파일.canvas",
