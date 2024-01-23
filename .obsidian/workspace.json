@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md",
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md",
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md",
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md"
+                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md"
               }
             }
           },
@@ -334,10 +334,10 @@
   },
   "active": "e6ec96386692d213",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_07_02_Virtual Memory.md",
     "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
     "Excalidraw/무제 파일.md",
     "Computer Science/운영체제/01_07_01_Physical Memory.md",
-    "Computer Science/운영체제/01_07_02_Virtual Memory.md",
     "ds.cpp.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Excalidraw/Memory_trap.png",
