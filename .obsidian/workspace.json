@@ -156,9 +156,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78bc1b53bb496c2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -224,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/무제 파일.md",
+                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/무제 파일.md",
+                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/무제 파일.md"
+                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md"
               }
             }
           },
@@ -332,10 +342,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3062eac48599991c",
+  "active": "78bc1b53bb496c2d",
   "lastOpenFiles": [
-    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Excalidraw/무제 파일.md",
+    "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
+    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Computer Science/운영체제/01_07_02_Virtual Memory.md",
     "ds.cpp.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
@@ -368,7 +379,6 @@
     "Excalidraw/Interrupt_Life_Cycle 1.png",
     "README.md",
     "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
-    "Computer Science/네트워크/TCP/소켓프로그래밍.md",
     "C++/포인터",
     "C++/객체지향 프로그래밍",
     "Computer Science/운영체제/Process, Threads",
