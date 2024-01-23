@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
+                "file": "Excalidraw/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
+                "file": "Excalidraw/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
+                "file": "Excalidraw/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md"
+                "file": "Excalidraw/무제 파일.md"
               }
             }
           },
@@ -332,12 +332,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6ec96386692d213",
+  "active": "3062eac48599991c",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_07_01_Physical Memory.md",
+    "Excalidraw/무제 파일.md",
     "Computer Science/운영체제/01_07_02_Virtual Memory.md",
     "ds.cpp.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
-    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Excalidraw/Memory_trap.png",
     "Excalidraw/Memory_trap.excalidraw.md",
     "Computer Science/운영체제/01_04_Process와 Threads.md",
@@ -368,7 +369,6 @@
     "README.md",
     "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
     "Computer Science/네트워크/TCP/소켓프로그래밍.md",
-    "Computer Science/네트워크/TCP/http.md",
     "C++/포인터",
     "C++/객체지향 프로그래밍",
     "Computer Science/운영체제/Process, Threads",
