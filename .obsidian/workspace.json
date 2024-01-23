@@ -151,24 +151,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/무제 파일.md",
+                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "78bc1b53bb496c2d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -234,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
+                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
+                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md"
+                "file": "Computer Science/운영체제/01_07_02_Virtual Memory.md"
               }
             }
           },
@@ -342,10 +332,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78bc1b53bb496c2d",
+  "active": "e6ec96386692d213",
   "lastOpenFiles": [
-    "Excalidraw/무제 파일.md",
     "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
+    "Excalidraw/무제 파일.md",
     "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Computer Science/운영체제/01_07_02_Virtual Memory.md",
     "ds.cpp.md",
