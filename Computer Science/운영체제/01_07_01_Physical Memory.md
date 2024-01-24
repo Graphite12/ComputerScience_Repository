@@ -50,8 +50,8 @@ Binding을 하는 시점은 3가지로 나뉜다. 현대에서는 주로 **Execu
 
 ### 메모리 관리 유닛, MMU
 - Execution TIme에 가상 주소를 물리 주소로 변환하는 하드웨어 장치
-- relocation Regi 
-- 
+- relocation Register가 핵심 구성요소
+- CPU에서 생성된 가상 주소를 베이스 주소와 더해 실제 물리메모리 주소로 할당.
 ## MMU의 동작원리
 
 
