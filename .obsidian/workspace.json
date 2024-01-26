@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터/포인터.md",
+                "file": "Cpp/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터/포인터.md",
+                "file": "Cpp/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/포인터/포인터.md",
+                "file": "Cpp/포인터/포인터.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/수식/일반 사칙연산.md",
+                "file": "Cpp/수식/일반 사칙연산.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -332,17 +334,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6ec96386692d213",
+  "active": "3062eac48599991c",
   "lastOpenFiles": [
+    "Computer Science/운영체제/01_04_Process와 Threads.md",
     "Computer Science/운영체제/01_07_02_Virtual Memory.md",
+    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
     "Excalidraw/무제 파일.md",
-    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "ds.cpp.md",
     "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Excalidraw/Memory_trap.png",
     "Excalidraw/Memory_trap.excalidraw.md",
-    "Computer Science/운영체제/01_04_Process와 Threads.md",
     "Computer Science/운영체제/01_03_Kernel과 System_Call.md",
     "Computer Science/운영체제/01_02_Inturrupt.md",
     "Excalidraw/메모리.excalidraw.md",
@@ -353,13 +355,13 @@
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
-    "C++/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
+    "Cpp/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
     "Mathmatics/삼각함수/게임과 삼각함수.md",
-    "C++/수식/수식 라이브러리.md",
-    "C++/수식/일반 사칙연산.md",
-    "C++/LeetCode_Algorithm",
-    "C++/포인터/포인터.md",
-    "C++/수식",
+    "Cpp/수식/수식 라이브러리.md",
+    "Cpp/수식/일반 사칙연산.md",
+    "Cpp/LeetCode_Algorithm",
+    "Cpp/포인터/포인터.md",
+    "Cpp/수식",
     "Excalidraw/Drawing 2023-12-11 01.42.43.excalidraw.md",
     "Excalidraw/Interrupt_Life_Cycle.png",
     "Excalidraw/OS구조.png",
@@ -369,8 +371,8 @@
     "Excalidraw/Interrupt_Life_Cycle 1.png",
     "README.md",
     "Excalidraw/Drawing 2023-12-06 22.17.30.excalidraw.md",
-    "C++/포인터",
-    "C++/객체지향 프로그래밍",
+    "Cpp/포인터",
+    "Cpp/객체지향 프로그래밍",
     "Computer Science/운영체제/Process, Threads",
     "Computer Science/운영체제/Operation System",
     "Excalidraw/OS구조 1.png",
@@ -378,6 +380,6 @@
     "Mathmatics/삼각함수",
     "C++/무제 파일.canvas",
     "Excalidraw",
-    "C++"
+    "Cpp"
   ]
 }
