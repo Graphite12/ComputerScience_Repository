@@ -100,8 +100,8 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 ```
 
 # 프로세스의 생명주기
-- New: 프로세스가 메인메모릴
-- Running: 
-- Waiting
-- Ready: 
-- Terminated : 프로세스 종료
+- New: 프로세스가 메인메모리에 로드됨.
+- Ready: 변수 초기화 등 기초작업 이후 실행 준비상태
+- Running: CPU가 실제로  
+- Waiting:
+- Terminated : 프로세스 종료, 메모리 해제
