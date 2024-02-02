@@ -14,11 +14,11 @@
 - `Stack`, `Heap`,`Data`,`Text`
 
 #### Stack Sagment
-- 실행 ㅋ
-
+- 함수 전달인자, 
 ### Heap Sagment
 
 
 ### Data Sagment
-
+- 전역 변수(global variable)
 ### Text Sagment
+- 실행가능한 코드(the executable code)
