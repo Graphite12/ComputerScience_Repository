@@ -99,4 +99,9 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 
 ```
 
-#
+# 프로세스의 생명주기
+- New: 프로세스가 생성됨.
+- Running: 
+- Waiting
+- Ready
+- Terminated : 프로
