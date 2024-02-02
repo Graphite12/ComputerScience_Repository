@@ -62,4 +62,11 @@
 ### Text Sagment
 - 실행가능한 코드(the executable code)
 
+```cpp
 
+gcc memory_layout.cpp
+size ./a.out
+
+
+text
+```
