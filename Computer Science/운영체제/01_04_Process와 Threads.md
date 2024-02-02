@@ -38,7 +38,7 @@
 		/* int type 크기의 정수n을 곱한 메모리 주소크기 결정 */
 		ptr = (int *)malloc(size(int) * n)
 		ptr2 = new Data();
-		ptr3 = new int [5]
+		ptr3 = new int [5];
 
 
 		/* 대충 문법*/
