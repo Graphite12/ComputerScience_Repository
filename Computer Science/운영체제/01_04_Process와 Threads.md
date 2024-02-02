@@ -18,12 +18,19 @@
 - 함수 매개변수, 지역변수, 쉘 환경변수, return address 등 저장됨.
 	```cpp
 	int main () {
+		int *value;  
+		int i;
 		
+		/* 대충 문법 */
+		
+		return 0;
 	}
 	```
 ### Heap Sagment
 - 메모리 동적 할당 시 저장되는 공간
 - `new`, `malloc`같은 동적할당 함수 
+
+
 ### Data Sagment
 - 전역 변수(global variable)
 - **initialized Data**
