@@ -31,9 +31,15 @@
 - `new`, `malloc`같은 동적할당 함수 
 	```cpp
 	int main () {
-		int *ptr // stack
+		int *ptr  // stack
+		int *ptr2 // stack
+		int *ptr3 // stack
+		
+		/* int type 크기의 정수n을 곱한 메모리 주소크기 결정 */
+		ptr = (int *)malloc(size(int) * n)
+		ptr2 = new Data();
+		ptr3 = new int [5]
 
-		ptr = (int *)malloc(size(int) * 4)
 
 		/* 대충 문법*/
 		
