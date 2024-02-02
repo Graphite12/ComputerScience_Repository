@@ -114,5 +114,11 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 
 # PCB(Process Control Block)
 - TCB(Task Control Block) 으로도 불림
-
-	-
+- PCB의 대표적인 정보들
+	- Process state
+	- Program Counter
+	- CPU registers
+	- CPU Scheduling Information
+	- Memory-management Information
+	- Accounting Information
+	- I/O status Information
