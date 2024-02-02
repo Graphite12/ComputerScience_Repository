@@ -109,3 +109,10 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 	- Waiting이 끝나면 기존프로세스는 Ready -> Running 수행. 
 - Terminated : 프로세스 종료, 메모리 해제
 
+
+
+
+# PCB(Process Control Block)
+- TCB(Task Control Block) 으로도 불림
+
+	-
