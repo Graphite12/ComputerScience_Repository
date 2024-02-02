@@ -6,4 +6,9 @@
 	- CPU Time
 	- Memory
 	- files,
-	- I/O de
+	- I/O device
+
+
+### 메모리 세그먼트
+- 프로그램을 메모리상에 올릴때 각 세그먼트로 분리됨
+- `Stack`, `Heap`,`Data`,`Text`
