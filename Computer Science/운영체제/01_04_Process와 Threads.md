@@ -124,4 +124,7 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 	- I/O status Information
 
 
-#
+# Process Scheduling
+
+### 멀티 프로그래밍이란?
+- CPU 사용 효율을 
