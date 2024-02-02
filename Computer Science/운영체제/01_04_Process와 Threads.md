@@ -14,9 +14,10 @@
 - `Stack`, `Heap`,`Data`,`Text`
 
 #### Stack Sagment
-- 함수 전달인자, 
+- 임시적으로 저장되는 공간, 사용하면 바로 회수
+- 함수 매개변수, 쉘 환경변수, return address 등 저장됨.
 ### Heap Sagment
-
+- 메몰
 
 ### Data Sagment
 - 전역 변수(global variable)
