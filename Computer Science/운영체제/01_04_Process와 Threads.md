@@ -29,7 +29,17 @@
 ### Heap Sagment
 - 메모리 동적 할당 시 저장되는 공간
 - `new`, `malloc`같은 동적할당 함수 
+	```cpp
+	int main () {
+		int *ptr // stack
 
+		ptr = (int *)malloc(size(int) * 4)
+
+		/* 대충 문법*/
+		
+		return 0;
+	}
+	```
 
 ### Data Sagment
 - 전역 변수(global variable)
