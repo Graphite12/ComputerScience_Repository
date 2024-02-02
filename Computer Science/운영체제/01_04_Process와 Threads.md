@@ -62,10 +62,12 @@
 ### Text Sagment
 - 실행가능한 코드(the executable code)
 
-```cpp
 
+
+```bash
 gcc memory_layout.cpp
 size ./a.out
 
-
+__TEXT	__DATA	__OBJC	others	dec	hex
+16384	16384	0	4295000064	4295032832	100010000
 ```
