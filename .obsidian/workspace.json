@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/운영체제/01_07_01_Physical Memory.md",
+                "file": "Computer Science/운영체제/01_04_Process와 Threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md",
+                "file": "Computer Science/운영체제/01_04_Process와 Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md",
+                "file": "Computer Science/운영체제/01_04_Process와 Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathmatics/이산수학/00_02논리적 동치.md"
+                "file": "Computer Science/운영체제/01_04_Process와 Threads.md"
               }
             }
           },
@@ -334,8 +334,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3062eac48599991c",
+  "active": "e6ec96386692d213",
   "lastOpenFiles": [
+    "Mathmatics/이산수학/00_02논리적 동치.md",
     "Computer Science/운영체제/01_04_Process와 Threads.md",
     "Computer Science/운영체제/01_07_02_Virtual Memory.md",
     "Computer Science/운영체제/01_07_01_Physical Memory.md",
@@ -353,7 +354,6 @@
     "Pasted Image 20231206221750_591.png",
     "Mathmatics/이산수학/01_02집합(Set)의 연산.md",
     "Mathmatics/이산수학/01_01집합(Set)의 기초.md",
-    "Mathmatics/이산수학/00_02논리적 동치.md",
     "Mathmatics/이산수학/00_01논리와 명제.md",
     "Cpp/LeetCode_Algorithm/1464. Maximum Product of Two Elements in an Array.md",
     "Mathmatics/삼각함수/게임과 삼각함수.md",
