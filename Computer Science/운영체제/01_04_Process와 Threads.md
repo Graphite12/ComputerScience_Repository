@@ -100,8 +100,8 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 ```
 
 # 프로세스의 생명주기
-- New: 프로세스가 생성됨.
+- New: 프로세스가 메인메모릴
 - Running: 
 - Waiting
-- Ready
-- Terminated : 프로
+- Ready: 
+- Terminated : 프로세스 종료
