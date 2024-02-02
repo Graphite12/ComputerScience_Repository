@@ -68,5 +68,4 @@ gcc memory_layout.cpp
 size ./a.out
 
 
-text
 ```
