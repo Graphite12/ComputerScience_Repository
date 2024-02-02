@@ -100,10 +100,12 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 ```
 
 # 프로세스의 생명주기
+
 - New: 프로세스가 메인메모리에 로드됨.
 - Ready: 변수 초기화 등 기초작업 이후 실행 준비상태
 - Running: CPU가 실제로 프로세스를 수행중. 
 - Waiting: 프로세스 도중 I/O 작업이 필요할때 일시중단.
 	- CPU는 I/O 처리를 기다리며, 다른 프로세스를 수행
-	- Waiting이 끝나고 다시 Ready -> 
+	- Waiting이 끝나면 기존프로세스는 Ready -> Running 수행. 
 - Terminated : 프로세스 종료, 메모리 해제
+
