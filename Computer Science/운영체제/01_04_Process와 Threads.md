@@ -9,6 +9,16 @@
 	- I/O device
 
 
-### 메모리 세그먼트
+### 메모리 레이아웃
 - 프로그램을 메모리상에 올릴때 각 세그먼트로 분리됨
 - `Stack`, `Heap`,`Data`,`Text`
+
+#### Stack Sagment
+- 실행 ㅋ
+
+### Heap Sagment
+
+
+### Data Sagment
+
+### Text Sagment
