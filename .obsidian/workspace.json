@@ -93,9 +93,11 @@
             "id": "3724dcc4cbaa167d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/메모리.excalidraw.md"
+                "file": "Computer Science/운영체제/01_04_Process와 Threads.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -144,21 +146,9 @@
                 "file": "Excalidraw/메모리.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "e6ec96386692d213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/운영체제/01_04_Process와 Threads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -334,21 +324,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6ec96386692d213",
+  "active": "3724dcc4cbaa167d",
   "lastOpenFiles": [
-    "Computer Science/운영체제/01_07_01_Physical Memory.md",
     "Computer Science/운영체제/01_07_02_Virtual Memory.md",
+    "Computer Science/운영체제/01_07_01_Physical Memory.md",
+    "Excalidraw/메모리.excalidraw.md",
     "Computer Science/운영체제/01_04_Process와 Threads.md",
+    "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Mathmatics/이산수학/00_02논리적 동치.md",
     "Excalidraw/Drawing 2024-01-23 14.22.13.excalidraw.md",
     "Excalidraw/무제 파일.md",
     "ds.cpp.md",
-    "Computer Science/운영체제/01_01_WhatIsOS.md",
     "Excalidraw/Memory_trap.png",
     "Excalidraw/Memory_trap.excalidraw.md",
     "Computer Science/운영체제/01_03_Kernel과 System_Call.md",
     "Computer Science/운영체제/01_02_Inturrupt.md",
-    "Excalidraw/메모리.excalidraw.md",
     "Excalidraw/Interrupt_Life_Cycle.excalidraw.md",
     "Pasted image 20231201144032.png",
     "Pasted Image 20231206221750_591.png",

@@ -54,7 +54,7 @@
 	int x = 10;
 	char str = "asd";
 	```
-- **uninitialized Data**
+- **uninitialized Data** (bss)
 	```cpp
 	int *pointerVar;
 	int d;
@@ -62,12 +62,36 @@
 ### Text Sagment
 - 실행가능한 코드(the executable code)
 
+### Example Code
 
+```cpp
+#include <iostream>
+
+int x;
+int d = 10;
+
+int main(int a, char *argv[]) {
+	int *ptr;
+	ptr = new int [3];
+
+	for(int i = 0; i < 7; i++) {
+
+		ptr[i] = i;
+
+	}
+	
+	return 0;
+}
+```
+
+실제 메모리 할당 확인
 
 ```bash
 gcc memory_layout.cpp
 size ./a.out
 
-__TEXT	__DATA	__OBJC	others	dec	hex
-16384	16384	0	4295000064	4295032832	100010000
+# Mac Os 
+
+__TEXT	__DATA	__OBJC	 others	        dec	       hex
+16384	16384	  0 	4295000064	4295032832	100010000
 ```
