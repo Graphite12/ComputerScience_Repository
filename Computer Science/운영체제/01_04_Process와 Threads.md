@@ -126,5 +126,7 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 
 # Process Scheduling
 
-### 멀티 프로그래밍이란?
-- CPU 사용 효율을 
+### 멀티 프로그래밍의 목적
+- CPU 사용 효율을 극대화 시키기위해
+
+### 시 공유의 목적
