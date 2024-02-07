@@ -7,6 +7,7 @@
 	- Memory
 	- files,
 	- I/O device
+	- 독립적으로 실행되 비동기 보장
 
 
 ## 메모리 레이아웃
@@ -104,7 +105,7 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 - New: 프로세스가 메인메모리에 로드됨.
 - Ready: 변수 초기화 등 기초작업 이후 실행 준비상태
 - Running: CPU가 실제로 프로세스를 수행중. 
-- Waiting: 프로세스 도중 I/O 작업이 필요할때 일시중단.
+- Wait/Block: 프로세스 도중 I/O 작업이 필요할때 일시중단.
 	- CPU는 I/O 처리를 기다리며, 다른 프로세스를 수행
 	- Waiting이 끝나면 기존프로세스는 Ready -> Running 수행. 
 - Terminated : 프로세스 종료, 메모리 해제
@@ -114,6 +115,8 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 
 # PCB(Process Control Block)
 - TCB(Task Control Block) 으로도 불림
+- 운영체제가 각 프로세스를 저장해놓는 정보블록
+- 프로세스 작업 완료시 자동 제거
 - PCB의 대표적인 정보들
 	- Process state
 	- Program Counter
