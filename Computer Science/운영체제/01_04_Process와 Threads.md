@@ -108,7 +108,7 @@ __TEXT	__DATA	__OBJC	 others	        dec	       hex
 - Wait/Block: 프로세스 도중 I/O 작업이 필요할때 일시중단.
 	- CPU는 I/O 처리를 기다리며, 다른 프로세스를 수행
 	- Waiting이 끝나면 기존프로세스는 Ready -> Running 수행. 
-- Terminated : 프로세스 종료, 메모리 해제
+- Terminated : 프로세스 종료, q메모리 해제
 
 
 
